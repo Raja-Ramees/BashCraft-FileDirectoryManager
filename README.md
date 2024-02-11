@@ -1,5 +1,17 @@
 # BashCraft-FileDirectoryManager
 
+#!/bin/bash
+
+echo -e "\e[1;32m
+  ____                   _             
+ |  _ \ ___  __ _ _ __ __| | __ _ _ __  
+ | |_) / _ \/ _\` | '__/ _\` |/ _\` | '_ \ 
+ |  _ <  __/ (_| | | | (_| | (_| | | | |
+ |_| \_\___|\__,_|_|  \__,_|\__,_|_| |_|
+          Crafted with Bash!
+\e[0m"
+
+
 🚀 **Elevate your Bash scripting with BashCraft!** 
 
 Effortlessly manage files and directories with efficiency and flexibility. Seamlessly navigate, manipulate, and organize your filesystem, whether you're a seasoned pro or new to scripting. Empower your workflow with BashCraft-FileDirectoryManager.
